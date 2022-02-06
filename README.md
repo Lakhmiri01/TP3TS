@@ -127,6 +127,7 @@ hold on,plot([delay+1:length(fnoise)+delay],fnoise,'r');
 
 ![6ca273e8-3ee8-4f1a-8a22-9d9b6bb43e54](https://user-images.githubusercontent.com/53974876/152662932-5723a107-939a-494d-8e3a-5725e91b8bc5.jpg)
 
+# Conclusion
 
 On peut Conclure que Le résultat de xcorr peut être interprété comme une estimation de la corrélation entre deux séquences aléatoires ou comme la corrélation déterministe entre deux signaux déterministes.
 
